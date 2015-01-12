@@ -12,6 +12,7 @@ Installation process assumes that all development stuff will be located in
    * android-sdk-platform-tools (https://aur.archlinux.org/packages/android-sdk-platform-tools)
    * android-sdk (https://aur.archlinux.org/packages/android-sdk)
    * android-udev (official repo)
+   * apache-ant (official repo)
 
 2. Bootstrap toolchain:
 
