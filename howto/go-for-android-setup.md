@@ -1,4 +1,6 @@
-Thanks @brnv for discovering correct order.
+### Setting up environment for development in Go for Android
+
+Thanks [@brnv](https://github.com/brnv) for discovering correct order.
 
 Installation process assumes that all development stuff will be located in
 `$PLAYGROUND` dir.
