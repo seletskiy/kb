@@ -33,7 +33,7 @@ Installation process assumes that all development stuff will be located in
        makepkg
      ```
 
-4. Copy examples:
+4. Copy examples (you can skip this step using `go get` as usual for the repo you want):
 
    ```
    mkdir -p $PLAYGROUND/go-mobile/src/
