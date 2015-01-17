@@ -1,5 +1,7 @@
 ### Setting up vim autocompletion via eclipse (usually for Java)
 
+Thanks [@brnv](https://github.com/brnv) again.
+
 * Install eclim package (with eclipse):  
   https://aur.archlinux.org/packages/eclim
 * Add following line to `.vimrc`:
