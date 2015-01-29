@@ -24,7 +24,7 @@ used for configure delay and repeat rate between keypresses.
 Default settings can be significantly lowered even without any training.
 
 For example, `xset r rate 120 90` means, that if key was pressed longer than
-120ms, it will be repeated in rate of 90 keypresses in minute (1.5 per second).
+120ms, it will be repeated in rate of 90 keypresses in second (yep, per second).
 
 Try to use values such as `200 60` at the beginning.
 
