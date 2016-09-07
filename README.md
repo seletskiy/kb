@@ -1,5 +1,7 @@
 My thoughts stream, dumped into verbalized short stories.
 
+## Table of contents
+
 * [howto](howto)
 	* [go for android setup](howto/go-for-android-setup.md)
 	* [how to type faster](howto/how-to-type-faster.md)
