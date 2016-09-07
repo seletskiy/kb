@@ -1,6 +1,8 @@
 My thoughts stream, dumped into verbalized short stories.
 
 ## Table of contents
+* [intelligence](00-intelligence)
+	* [aspects](00-intelligence/01-aspects.md)
 * [howto](40-howto)
 	* [go for android setup](40-howto/go-for-android-setup.md)
 	* [how to type faster](40-howto/how-to-type-faster.md)
